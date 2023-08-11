@@ -11,7 +11,7 @@ import streamlit as st
 
 from utils import get_answer_csv
 
-st.header("Chat with data stored in CSV")
+st.header("Chat with football data stored in CSV")
 uploaded_file = st.file_uploader("Upload a csv file", type=["csv"])
 
 if uploaded_file is not None:

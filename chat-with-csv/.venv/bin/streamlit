@@ -1,4 +1,4 @@
-#!/Users/ananthjosyula/Desktop/projects/Nordensa/chatbot1/chat-with-csv/.venv/bin/python3.11
+#!/Users/ananthjosyula/Desktop/projects/Nordensa/chatbot/chat-with-csv/.venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
